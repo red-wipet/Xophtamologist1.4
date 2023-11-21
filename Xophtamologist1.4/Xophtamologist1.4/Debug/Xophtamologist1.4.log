@@ -1,0 +1,20 @@
+﻿  Xophtamologist1.4.cpp
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(160,7): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(170,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(175,10): warning C4552: "<": результат выражения не используется
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(240,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(296,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(352,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(406,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(460,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(514,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(568,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(622,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(676,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(730,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(784,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(1068,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(1072,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(184): warning C4715: Hue: значение возвращается не при всех путях выполнения
+C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Xophtamologist1.4\Xophtamologist1.4.cpp(834): warning C4715: RndRGB: значение возвращается не при всех путях выполнения
+  Xophtamologist1.4.vcxproj -> C:\Users\MrSuperBuddy\source\repos\Xophtamologist1.4\Debug\Xophtamologist1.4.exe
